@@ -32,7 +32,7 @@ std::array<int, 4> convertToLunarCalendar(const int& dd, const int& mm, const in
 ```
 Suppose you want to get Vietnamese lunar day of June 7 2022
 ```cpp
-auto lunar = convertToLunarCalendar(7, 6, 2022);
+auto lunar = convertToLunarCalendar(7, 6, 2022, 7.0);
 ```
 ``lunar`` is a array with 
 | Index |       Value       |
