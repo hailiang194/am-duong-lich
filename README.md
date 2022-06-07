@@ -1,6 +1,6 @@
 # am-duong-lich
 
-Convert Julian day to Lunar day based on the idea of ![Hồ Ngọc Đức](https://www.informatik.uni-leipzig.de/~duc/amlich/)
+Convert Julian day to Lunar day based on the idea of [Hồ Ngọc Đức](https://www.informatik.uni-leipzig.de/~duc/amlich/)
 
 # Installation 
 ```sh
